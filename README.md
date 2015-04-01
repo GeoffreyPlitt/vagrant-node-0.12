@@ -1,2 +1,10 @@
-# vagrant-node-0.12
-Vagrant with Node 0.12 (and other stuff) running on it.
+vagrant-node-0.12
+=================
+
+A Vagrant box with NodeJS 0.12 on it.
+
+Also contains:
+* redis
+* mongodb
+* g++
+* htop
